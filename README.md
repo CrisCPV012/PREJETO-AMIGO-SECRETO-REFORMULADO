@@ -1,6 +1,4 @@
-Claro, aqui está o código completo para o arquivo `README.md` do seu projeto "Amigo Secreto - Carros Brasileiros". Você pode copiar e colar este conteúdo diretamente no seu repositório GitHub:
-
-```markdown
+``markdown
 # 🎁 Amigo Secreto - Carros Brasileiros
 
 Este projeto é uma aplicação web interativa que combina a tradicional brincadeira de **Amigo Secreto** com o tema de **carros brasileiros**. Além de permitir a organização do sorteio entre participantes, a aplicação oferece abas dedicadas às principais marcas de automóveis nacionais e suas histórias no Brasil.
