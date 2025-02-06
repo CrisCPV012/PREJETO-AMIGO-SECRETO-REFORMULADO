@@ -50,18 +50,11 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
----
-
-Este README fornece uma visão geral do projeto, suas funcionalidades e instruções de uso. Certifique-se de substituir os espaços reservados, como o link do repositório e a captura de tela, com as informações específicas do seu projeto.
-```
-
-**Instruções:**
+Instruções:**
 
 - **Link do Repositório**: Substitua `https://github.com/seu-usuario/amigo-secreto-carros-brasileiros.git` pelo URL real do seu repositório no GitHub.
 - **Capturas de Tela**: Atualize o link da imagem e a descrição conforme necessário para refletir as capturas de tela reais do seu projeto.
 - **Licença**: Certifique-se de que o arquivo `LICENSE` esteja presente no seu repositório ou ajuste a seção de licença conforme apropado.
-
-Este modelo de README segue as melhores práticas para documentação de projetos no GitHub, conforme discutido em artigos como ["How to write a good README for your GitHub project?"](https://bulldogjob.com/readme/how-to-write-a-good-readme-for-your-github-project) e ["Creating Great README Files for Your Python Projects"](https://realpython.com/readme-python-prc).
 
 Para facilitar a criação e edição do README, você também pode utilizar ferramentas como o [readme.so](https://readme.so/), que oferece um editor intuitivo para personalizar seções conforme suas necesas.
 
